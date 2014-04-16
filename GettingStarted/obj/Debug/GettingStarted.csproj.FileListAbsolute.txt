@@ -1,0 +1,8 @@
+C:\lalo\Other\GettingStarted\GettingStarted\bin\Debug\GettingStarted.dll
+C:\lalo\Other\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\lalo\Other\GettingStarted\GettingStarted\bin\Debug\Rhi.Isncsci.dll
+C:\lalo\Other\GettingStarted\GettingStarted\bin\Debug\Rhi.Isncsci.pdb
+C:\lalo\Other\GettingStarted\GettingStarted\bin\Debug\Rhi.Isncsci.xml
+C:\lalo\Other\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+C:\lalo\Other\GettingStarted\GettingStarted\obj\Debug\GettingStarted.dll
+C:\lalo\Other\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
